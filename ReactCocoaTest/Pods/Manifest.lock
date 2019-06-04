@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - ReactiveObjC (2.1.2)
+  - RFTool (1.0.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Masonry
+  - ReactiveObjC (~> 2.1.0)
+  - RFTool
+  - YYKit (~> 1.0.9)
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ReactiveObjC: 7b6782ae39f9ac0f57205c3b0c0b69b9dd7048c0
+  RFTool: c0ebe2996f513084b0f7c810d1e924dd62e1327e
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 82bccee321a334863f9ef5009dc5e84df7f7e37c
+
+COCOAPODS: 1.4.0

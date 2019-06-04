@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ReactCocoaTest' do
+
+pod 'ReactiveObjC', '~> 2.1.0'
+
+pod 'Masonry'
+
+pod 'RFTool'
+
+pod 'YYKit', '~> 1.0.9'
+
+end
