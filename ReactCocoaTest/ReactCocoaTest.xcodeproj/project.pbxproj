@@ -26,6 +26,7 @@
 		D8543FB7229D271300490B93 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = D8543FB6229D271300490B93 /* Model.m */; };
 		D8543FBC229D28A100490B93 /* MyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D8543FBB229D28A100490B93 /* MyCell.m */; };
 		D85FEE6522A67B0600DEA03B /* RACVC.m in Sources */ = {isa = PBXBuildFile; fileRef = D85FEE6422A67B0600DEA03B /* RACVC.m */; };
+		D85FEE6822AE0C2700DEA03B /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = D85FEE6722AE0C2700DEA03B /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,8 @@
 		D8543FBB229D28A100490B93 /* MyCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyCell.m; sourceTree = "<group>"; };
 		D85FEE6322A67B0600DEA03B /* RACVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RACVC.h; sourceTree = "<group>"; };
 		D85FEE6422A67B0600DEA03B /* RACVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RACVC.m; sourceTree = "<group>"; };
+		D85FEE6622AE0C2700DEA03B /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		D85FEE6722AE0C2700DEA03B /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +198,8 @@
 			children = (
 				D8543FB5229D271300490B93 /* Model.h */,
 				D8543FB6229D271300490B93 /* Model.m */,
+				D85FEE6622AE0C2700DEA03B /* Person.h */,
+				D85FEE6722AE0C2700DEA03B /* Person.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -355,6 +360,7 @@
 				D8543FA12297914E00490B93 /* ViewController.m in Sources */,
 				D8063C8722A61CE000764203 /* MVVMCell.m in Sources */,
 				D8543FAC2297915600490B93 /* main.m in Sources */,
+				D85FEE6822AE0C2700DEA03B /* Person.m in Sources */,
 				D8543F9E2297914E00490B93 /* AppDelegate.m in Sources */,
 				D8063C8A22A658FA00764203 /* MVVMViewModel.m in Sources */,
 				D8121E66229E7A9A00F2B2C4 /* Present.m in Sources */,
