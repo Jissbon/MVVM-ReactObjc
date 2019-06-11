@@ -16,6 +16,8 @@
 @interface RACVC ()
 
 @property (strong, nonatomic) UIButton  *btn;
+
+
 @property (strong, nonatomic) Person *p;
 @end
 
@@ -34,6 +36,9 @@
         [btn setTitle:@"PRF" forState:UIControlStateNormal];
         return [RACSignal empty];
     }];
+    
+
+    
 }
 
 -(UIButton *)btn{
